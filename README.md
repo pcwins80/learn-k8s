@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/chukwuemekapeter319/30dbb643-68fb-4aff-9a6b-ad6d1076c860/764cea27-f0e2-44eb-b7c1-937cb9a8eb30/_apis/work/boardbadge/ebc7b16f-60dc-45de-85b3-f6138a3a0dd8)](https://dev.azure.com/chukwuemekapeter319/30dbb643-68fb-4aff-9a6b-ad6d1076c860/_boards/board/t/764cea27-f0e2-44eb-b7c1-937cb9a8eb30/Microsoft.RequirementCategory)
 
 # Minikube commands
 Installation: https://minikube.sigs.k8s.io/docs/start/
